@@ -3,5 +3,10 @@
     "OpenLPUsername":"<Your-OpenLP-Username>",
     "OpenLPpassword":"<Your-OpenLP-Password>",
 
-    "SpreadsheetID":"<Your-Google-Sheets-Spreadshet-ID>"
+    "OBSIPAddress":"<Your-OBS-IP-Address>",
+    "OBSUsername":"<Your-OBS-Username>",
+    "OBSpassword":"<Your-OBS-Password>",
+
+   "SpreadsheetName":"<Your-Spreadsheet-Name>",
+    "SpreadsheetID":"<Your-Spreadsheet-ID>"
 }
