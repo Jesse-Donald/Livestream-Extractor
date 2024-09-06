@@ -1,0 +1,7 @@
+{
+    "OpenLPIPAddress":"<Your-OpenLP-IP-Address>",
+    "OpenLPUsername":"<Your-OpenLP-Username>",
+    "OpenLPpassword":"<Your-OpenLP-Password>",
+
+    "SpreadsheetID":"<Your-Google-Sheets-Spreadshet-ID>"
+}
